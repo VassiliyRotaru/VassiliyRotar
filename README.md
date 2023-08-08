@@ -1,4 +1,4 @@
-- 👋 Hi, I'm VassiliyRotar
+- 👋 Hi, I'm VassiliyRotaru
 - 👀 I am interested in interface development
 - Currently I know: HTML,CSS(Less, Sass, Flexbox, Grid, JavaScript(base) React at the stage of training in the courses IT KAMASUTRA (React of Way)
 - 💞️ I am looking for opportunities for cooperation ...
